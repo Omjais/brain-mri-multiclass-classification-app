@@ -39,3 +39,10 @@ Images are categorized into four folders representing each class.
 Achieved:
 - **~93% test accuracy**
 - Strong performance on all tumor types, with focus on improving Meningioma detection.
+
+---
+## 🛠 Technical Stack
+- **Frameworks**: TensorFlow, Keras, Streamlit
+- **Techniques**: CNN, Transfer Learning, Data Augmentation, Image Classification
+- **Domain**: Medical Imaging, Brain MRI, Healthcare AI
+- **Deployment**: Streamlit Web App
